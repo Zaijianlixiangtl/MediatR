@@ -1,0 +1,14 @@
+G:\MyCode\mediatR\TestMediatR\TestMediatR\bin\Debug\netcoreapp2.2\TestMediatR.deps.json
+G:\MyCode\mediatR\TestMediatR\TestMediatR\bin\Debug\netcoreapp2.2\TestMediatR.runtimeconfig.json
+G:\MyCode\mediatR\TestMediatR\TestMediatR\bin\Debug\netcoreapp2.2\TestMediatR.runtimeconfig.dev.json
+G:\MyCode\mediatR\TestMediatR\TestMediatR\bin\Debug\netcoreapp2.2\TestMediatR.dll
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.csprojAssemblyReference.cache
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.csproj.CoreCompileInputs.cache
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.RazorAssemblyInfo.cache
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.RazorAssemblyInfo.cs
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.AssemblyInfoInputs.cache
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.AssemblyInfo.cs
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.RazorTargetAssemblyInfo.cache
+G:\MyCode\mediatR\TestMediatR\TestMediatR\bin\Debug\netcoreapp2.2\TestMediatR.pdb
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.dll
+G:\MyCode\mediatR\TestMediatR\TestMediatR\obj\Debug\netcoreapp2.2\TestMediatR.pdb
